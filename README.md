@@ -70,7 +70,7 @@ To enable future research on quantum kernel training algorithms, this toolkit is
 
 ***Overall Architecture***
 
-The structure of the QKT Toolkit is illustrated in the diagram below. New components and features were integrated into Qiskit Machine Learning to enable training of quantum kernels. The QKT Tookit is built on top of these integrations and includes local components such as datasets, feature maps, and documentation&mdash;all maintained with style, unit, and notebook tests.
+The structure of the QKT Toolkit is illustrated in the diagram below. New components and features were integrated into Qiskit Machine Learning to enable training of quantum kernels. The QKT Toolkit is built on top of these integrations and includes local components such as datasets, feature maps, and documentation&mdash;all maintained with style, unit, and notebook tests.
 
 <br />
 
